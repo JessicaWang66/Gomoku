@@ -1,0 +1,35 @@
+# Development Journal #
+
+- **4/19/2020** import external library
+  - successfully import ImGui and Choreograph library
+  - need sample code to demonstrate functionality
+- **4/20/2020** finish board class implementation and testing
+  - Add basic functions including get winner, clear board, place stones. 
+  - Need to add game process recording file standard later (to replay game)
+- **4/21/2020** add user interface
+  - Display game board and messages
+  - Some functions like parameter and message to be updated later
+- **4/22/2020** modify user interface
+  - Display winner information
+  - Add delay time, black and white player selection
+- **4/23/2020** implement first auto player
+  - Implement minimax algorithm
+  - Fix getWinner algorithm to be much more efficient
+- **04/25/2020** improve minimax algorithm
+  - improve efficiency by adding alpha-beta pruning
+  - Need improve minimax algorithm (maybe try monte carlo tree search?)
+  - Need improve minimax evaluation function
+- **04/28/2020** improve minimax algorithm
+  - fix most hard coding 
+  - fix bugs in calculating diagonal numerical value
+- **04/29/2020** improve minimax algorithm
+  - fix bugs in calculating multiple pattern type numerical value
+- **05/03/2020** improve minimax algorithm
+  - add multiple-thread option, significantly improve efficiency
+- **05/04/2020** 
+  - add javadoc for minimax header file
+- **05/05/2020**
+  - add simple player strategy
+  - fix hard coding and add documentation
+  - improve read.me documentation
+  

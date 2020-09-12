@@ -1,11 +1,10 @@
-# Final Project
+# Gomoku
 
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![docs](https://img.shields.io/badge/docs-yes-brightgreen)](README.md)
 
 **Author**: Yucheng Jiang - [`yj17@illinois.edu`](mailto:example@illinois.edu)
 
-# Gomoku
 
 > Gomoku (five-in-a-row) game featuring a powerful Alpha-beta pruning algorithm written in `C++`. Download the latest release executable file  <a href="https://github.com/CS126SP20/final-project-Yucheng-Jiang/releases/download/v1.0/gomuku.exe" target="_blank">here</a>. 
 
